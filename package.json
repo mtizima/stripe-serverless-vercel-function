@@ -1,0 +1,1 @@
+{"name": "stripe-serverless-function", "version": "1.0.0", "main": "index.js", "dependencies": {"stripe": "^12.0.0"}}
